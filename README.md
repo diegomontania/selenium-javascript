@@ -19,3 +19,11 @@ Projeto básico para testes de interface de usuário, utilizando a metodologia d
 - Caso esteja tudo configurado corretamente utilize : `npm test` no terminal.
 	> Debuging, selecione : `'Run script: test'`
 - Os resultados de sucesso e falha sairam diretamente no terminal do visual studio code.
+
+## Agradecimentos 
+O projeto base utilizado para sincronizar o cumcuber e o selenium foi disponibilizao pelo desenvolvedor : [blh0021](https://github.com/blh0021)
+
+Onde foram necessarias pequenas modificações para fazer o projeto funcionar com debuging habilitado.
+
+Link original : https://github.com/testcookbook/js-cucumber-selenium.git
+
