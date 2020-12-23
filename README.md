@@ -12,7 +12,7 @@ Projeto básico para testes de interface de usuário, utilizando a metodologia d
 	> Windows > Digite "Edit the system enviroment variable" > Enviroment variables :
 
 	- Em user variable for 'xxxxx'
-	- > Clique em 'Path' > Edit > Novo > 'C:\seleniumWebdrivers' > ok
+	- > Clique em 'Path' > Edit > New > 'C:\seleniumWebdrivers' > ok
 
 ## Rodando os testes
 
