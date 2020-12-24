@@ -80,7 +80,7 @@ module.exports = function ()
     return assert.strictEqual(textoParceria, TEXTO_PARCERIA);
   });
 
-  this.When(/^Visualizo pais$/, async function() {
+  this.Then(/^Visualizo pais$/, async function() {
     var textoPais = await this.driver.wait(
       until.elementLocated(By.xpath("//p[contains(.,'"+ TEXTO_PAIS +"')]")),
       TEMPO_ESPERA_ELEMENTO_PAGINA).getText();

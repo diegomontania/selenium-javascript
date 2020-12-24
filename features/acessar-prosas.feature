@@ -13,4 +13,4 @@ Feature: Visitar Prosas
     Then Visualizo edital
     Then Visualizo descricao de valor 
     Then Visualizo descricao
-    When Visualizo pais
+    Then Visualizo pais
